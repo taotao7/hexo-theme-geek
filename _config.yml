@@ -1,4 +1,4 @@
-logo_title: GEEK 三斤
+logo_title: TAO
 
 style: black
 
@@ -6,17 +6,17 @@ favicon: /favicon.ico
 
 menu:
   作品: /project
-  域名: /domain
-  友联: /links
+  #域名: /domain
+  #友联: /links
   关于: /about
-  Github: https://github.com/sanjinhub
+  Github: https://github.com/taotao7
 
 # 做了域名限制，请改成自己的 KEY
 # 若关闭valine 设置enable为false
 valine:
   enable: true
-  appId: CmCti21ooOOIzFOhEyFkFvR0-gzGzoHsz
-  appKey: FqiyUqbg7McKN2eG0MCewupf
+  appId: wqFdrF3J2C3lJWUKyvcUbPoJ-gzGzoHsz
+  appKey: o6gwanqWaUrXN7mliDcGHn0T
 
 highlight:
-  enable: false
+  enable: true
